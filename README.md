@@ -17,9 +17,9 @@
   <a href="https://www.linkedin.com/in/tomas-v-de-brito-gomes-a7747997/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="tomas v de brito gomes" height="30" width="40" /></a>
   
   <h4>Recent Projects:</h4>
-  <a href="https://opentickets.herokuapp.com/">Open Tickets - a community app for developers who wish to improve their skills and teach other developers</a>
+  <a href="https://opentickets.herokuapp.com/">Open Tickets </a> - a community app for developers who wish to improve their skills and teach other developers
 
-  <a href="http://www.discoveraventureiro.com/">Discover Aventureiro - a platform for connecting turists with indigenous locals on Aventureiro, Ilha Grande</a>
+  <a href="http://www.discoveraventureiro.com/">Discover Aventureiro </a> - a platform for connecting turists with indigenous locals on Aventureiro, Ilha Grande
 
 </div>
 
