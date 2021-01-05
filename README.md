@@ -6,7 +6,7 @@
 
   <p align="left">I learned many new skills, best practices and of course programming languages such as Ruby and Javascript, but above all, I learned how to apply myself to learn brand new subjects, and to delve deeper "under the hood" to fully understand what is going on when we write code.</p>
 
-  <p align="left">The unprecedented time we are living in has also giving me the oportunity of taking most classes and group projects to a remote environment, using tools such as Git, Github, Slack, Zoom, Trello, Figma, Miro, and Whimsical.</p>
+  <p align="left">The unprecedented time we are living in has also given me the oportunity of taking most classes and group projects to a remote environment, using tools such as Git, Github, Slack, Zoom, Trello, Figma, Miro, and Whimsical.</p>
 
   <p align="left"><strong> Currently I am learning React and Redux, and am available for full-time or freelance projects.</strong></p>
 
