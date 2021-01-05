@@ -2,7 +2,7 @@
 
 Hello World! I am Tomás, a Junior Web Developer.
 
-My two passions are Programming and Hospitality, the latter of which I have worked in the past 10 years. I have always had a dream to write and understand code, and this year, I had the oportunity to take the Le Wagon Web-Develpoment Bootcampin Rio de Janeiro. 
+My two passions are Programming and Hospitality, the latter of which I have worked in the past 10 years. I have always had a dream to write and understand code, and this year, I had the oportunity to take the Le Wagon Web-Develpoment Bootcamp in Rio de Janeiro. 
 
 I learned many new skills, best practices and of course programming languages such as Ruby and Javascript, but above all, I learned how to apply myself to learn brand new subjects, and to delve deeper "under the hood" to fully understand what is going on when we write code.
 
