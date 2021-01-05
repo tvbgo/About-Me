@@ -1,4 +1,4 @@
-# About-Me
+# About Me
 
 Hello World! I am Tomás, a Junior Web Developer.
 
@@ -14,6 +14,7 @@ Contact me:
 tvb.gomes@gmail.com
 
 Learn More about me: 
+Tomas V. B. Gomes
 <a href="https://www.linkedin.com/in/tomas-v-de-brito-gomes-a7747997/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="tomas v de brito gomes" height="30" width="40" /></a>
 
 
