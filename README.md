@@ -1,5 +1,5 @@
-<div class="container">
-  <h2>Hello World! I am Tomás, a Junior Web Developer.</h2>
+<div class="container text-center">
+  <h2>Hello World! <br> I am Tomás, a Junior Web Developer.</h2>
 
   <p>My two passions are Programming and Hospitality, the latter of which I have worked in the past 10 years. I have always had a dream to write and understand code, and this year, I had the oportunity to take the Le Wagon Web-Develpoment Bootcamp in Rio de Janeiro.</p>
 
