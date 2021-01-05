@@ -2,7 +2,7 @@
   <h2 a>Hello World! </h2> 
   <h3 >I'm Tomás, and I'm a Web Developer.</h3>
 
-  <p align="left">My two passions are Programming and Hospitality, the latter of which I have worked in the past 10 years. It has always been a dream to write and understand code, and this year(2020), I had the oportunity to take the Le-Wagon Web Develpment Bootcamp in Rio de Janeiro.</p>
+  <p align="left">My two passions are Programming and Hospitality, the latter of which I have worked in the past 10 years. It has always been a dream to write and understand code, and this year(2020), I had the oportunity to take the Le-Wagon Web Development Bootcamp in Rio de Janeiro.</p>
 
   <p align="left">I learned many new skills, best practices and of course programming languages such as Ruby and Javascript, but above all, I learned how to apply myself to learn brand new subjects, and to delve deeper "under the hood" to fully understand what is going on when we write code.</p>
 
