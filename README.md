@@ -1,4 +1,4 @@
-<div class="container text-align-center">
+<div class="container" align="center">
   <h2>Hello World! <br> I'm Tomás, and I'm a Web Developer.</h2>
 
   <p>My two passions are Programming and Hospitality, the latter of which I have worked in the past 10 years. It has always been a dream to write and understand code, and this year(2020), I had the oportunity to take the Le Wagon Web-Develpoment Bootcamp in Rio de Janeiro.</p>
