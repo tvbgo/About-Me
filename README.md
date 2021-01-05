@@ -11,10 +11,10 @@
   <p align="left"><strong> Currently I am learning React and Redux, and am available for full-time or freelance projects.</strong></p>
 
   <h4>Contact me:</h4>
-  <a href="mailto:tvb.gomes@gmail.com" target="blank">tvb.gomes@gmail.com</a>
+  [tvb.gomes@gmail.com](mailto:tvb.gomes@gmail.com){:target="_blank"}
 
   <h4>Learn more about me</h4>
-  <a href="https://www.linkedin.com/in/tomas-v-de-brito-gomes-a7747997/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="tomas v de brito gomes" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/tomas-v-de-brito-gomes-a7747997/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="tomas v de brito gomes" height="30" width="40" /></a>
 
 </div>
 
