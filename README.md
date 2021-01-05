@@ -1,7 +1,7 @@
-<div class="container center">
-  <h2>Hello World! <br> I am Tomás, a Junior Web Developer.</h2>
+<div class="container text-align-center">
+  <h2>Hello World! <br> I'm Tomás, a passionate and dedicated Web Developer.</h2>
 
-  <p>My two passions are Programming and Hospitality, the latter of which I have worked in the past 10 years. I have always had a dream to write and understand code, and this year, I had the oportunity to take the Le Wagon Web-Develpoment Bootcamp in Rio de Janeiro.</p>
+  <p>My two passions are Programming and Hospitality, the latter of which I have worked in the past 10 years. It has always been a dream to write and understand code, and this year(2020), I had the oportunity to take the Le Wagon Web-Develpoment Bootcamp in Rio de Janeiro.</p>
 
   <p>I learned many new skills, best practices and of course programming languages such as Ruby and Javascript, but above all, I learned how to apply myself to learn brand new subjects, and to delve deeper "under the hood" to fully understand what is going on when we write code.</p>
 
