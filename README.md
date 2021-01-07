@@ -11,6 +11,7 @@
   <p align="left"><strong> Currently I am learning React and Redux, and am available for full-time or freelance projects.</strong></p>
 
   <h4>Contact me:</h4>
+  <p> WhatsApp: +5521 986041140 </p>
   <a href="mailto:tvb.gomes@gmail.com" target="_blank">tvb.gomes@gmail.com</a>
 
   <h4>Learn more about me:</h4>
