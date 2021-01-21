@@ -11,12 +11,12 @@
   <p align="left"><strong> Currently I am learning React and Redux, and am available for full-time or freelance projects.</strong></p>
 
   <h4>Contact me:</h4>
-  <p> WhatsApp: +5521 986041140 </p>
+  <p> WhatsApp: +5521 98604 1140 </p>
   <a href="mailto:tvb.gomes@gmail.com" target="_blank">tvb.gomes@gmail.com</a>
 
   <h4>Learn more about me:</h4>
+  <a href="https://res.cloudinary.com/tvbgo/image/upload/v1611239074/Tomas-Gomes_resume.pdf"> My Resume</a> <br>
   <a href="https://tvbgo.github.io/profile/"> My new profile page!</a> <br>
-  OR <br>
   <a href="https://www.linkedin.com/in/tomas-v-de-brito-gomes-a7747997/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="tomas v de brito gomes" height="30" width="40" /></a>
   
   <h4>Recent Projects:</h4>
