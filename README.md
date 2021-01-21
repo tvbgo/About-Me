@@ -15,7 +15,7 @@
   <a href="mailto:tvb.gomes@gmail.com" target="_blank">tvb.gomes@gmail.com</a>
 
   <h4>Learn more about me:</h4>
-  <a href="https://res.cloudinary.com/tvbgo/image/upload/v1611239074/Tomas-Gomes_resume.pdf"> My Resume</a> <br>
+  <a href="https://www.canva.com/design/DAET3kjYugc/0UPfW2Kn20Eknpz3clahQA/view?utm_content=DAET3kjYugc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"> My Resume</a> <br>
   <a href="https://tvbgo.github.io/profile/"> My new profile page!</a> <br>
   <a href="https://www.linkedin.com/in/tomas-v-de-brito-gomes-a7747997/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="tomas v de brito gomes" height="30" width="40" /></a>
   
