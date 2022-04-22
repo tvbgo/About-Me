@@ -2,16 +2,15 @@
   <h2 a>Hello World! </h2> 
   <h3 >I'm Tomás, and I'm a Web Developer.</h3>
 
-  <p align="left">My two passions are Programming and Hospitality, the latter of which I have worked in the past 10 years. It has always been a dream to write and understand code, and this year(2020), I had the oportunity to take the Le-Wagon Web Development Bootcamp in Rio de Janeiro.</p>
+  <p align="left">My two passions are Programming and Hospitality, the latter of which I have worked in the past 10 years. It has always been a dream to write and understand code, and in 2020, I had the oportunity to take the Le-Wagon Web Development Bootcamp in Rio de Janeiro.</p>
 
   <p align="left">I learned many new skills, best practices and of course programming languages such as Ruby and Javascript, but above all, I learned how to apply myself to learn brand new subjects, and to delve deeper "under the hood" to fully understand what is going on when we write code.</p>
 
   <p align="left">The unprecedented time we are living in has also given me the oportunity of taking most classes and group projects to a remote environment, using tools such as Git, Github, Slack, Zoom, Trello, Figma, Miro, and Whimsical.</p>
 
-  <p align="left"><strong> Currently I am learning React and Redux, and am available for full-time or freelance projects.</strong></p>
+  <p align="left"><strong> Currently I am at a full-time position at RD Station as a Software Engineer in the Data & Analytics team.</strong></p>
 
   <h4>Contact me:</h4>
-  <p> WhatsApp: +5521 98604 1140 </p>
   <a href="mailto:tvb.gomes@gmail.com" target="_blank">tvb.gomes@gmail.com</a>
 
   <h4>Learn more about me:</h4>
@@ -23,8 +22,6 @@
   
   <a href="https://opentickets.herokuapp.com/">Open Tickets </a> <br> Social Network for developers who wish to improve their skills and teach other developers
 
-  <a href="http://www.discoveraventureiro.com/">Discover Aventureiro </a> <br> Platform for connecting turists with indigenous locals on Aventureiro, Ilha Grande
-  
   
 </div>
 
