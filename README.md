@@ -8,7 +8,7 @@
 
   <p align="left">The unprecedented time we are living in has also given me the oportunity of taking most classes and group projects to a remote environment, using tools such as Git, Github, Slack, Zoom, Trello, Figma, Miro, and Whimsical.</p>
 
-  <p align="left"><strong> Currently I am at a full-time position at RD Station as a Software Engineer in the Data & Analytics team.</strong></p>
+  <p align="left"><strong> Currently I am at a full-time position at RD Station as a Software Engineer in the Data & Analytics team. Open for part-time and freelance projects.</strong></p>
 
   <h4>Contact me:</h4>
   <a href="mailto:tvb.gomes@gmail.com" target="_blank">tvb.gomes@gmail.com</a>
