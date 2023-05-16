@@ -11,24 +11,7 @@
   <p align="left"><strong> Currently I am at a full-time position at RD Station as a Software Engineer in the Data & Analytics team. Open for part-time and freelance projects.</strong></p>
 
   <h4>Contact me:</h4>
-  <a href="mailto:tvb.gomes@gmail.com" target="_blank">tvb.gomes@gmail.com</a>
-
-  <h4>Learn more about me:</h4>
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tvbgo&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tvbgo&langs_count=8&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-  
-  
-  <h4>Recent Projects:</h4>
-  
-  <a href="https://opentickets.herokuapp.com/">Open Tickets </a> <br> Social Network for developers who wish to improve their skills and teach other developers
-
-  
-
-
-  
+  <a href="mailto:tvb.gomes@gmail.com" target="_blank">tvb.gomes@gmail.com</a>  
 </div>
 
 
